@@ -6,7 +6,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Montserrat";
+    font-family: "Inter";
     font-weight: 340;
     line-height: 1.32;
     letter-spacing: 0.15px;
@@ -40,7 +40,7 @@ body{
 .navbar ul li{
     list-style-type: none;
 }
-.navbar ul li a{
+a{
     text-decoration: none;
     color: black;
     transition: 0.1s ease-in-out;
@@ -484,4 +484,5 @@ button:hover{
         display: none;
     }
 }
+
 
