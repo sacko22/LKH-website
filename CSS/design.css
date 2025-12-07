@@ -98,7 +98,8 @@ a{
 }
 .header .contenu .leftSection .text #bienvenue span{
     text-transform: uppercase;
-    font-weight: 700;
+    font-weight: 800;
+    letter-spacing: 0.2px;
 }
 .header .contenu .leftSection .description{
     font-size: 18px;
@@ -484,6 +485,7 @@ button:hover{
         display: none;
     }
 }
+
 
 
 
