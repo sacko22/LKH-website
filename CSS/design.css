@@ -5,7 +5,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Montserrat";
+    font-family: "Inter";
     font-weight: 340;
     line-height: 1.32;
     letter-spacing: 0.15px;
@@ -485,3 +485,4 @@ button:hover{
         display: none;
     }
 }
+
