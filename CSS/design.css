@@ -456,6 +456,9 @@ button:hover{
     .header .contenu{
         margin-top: 60px;
     }
+    .navbar .logo img{
+        width: 60px;
+    }
      
 }
 @media (width <=860px) {
@@ -485,4 +488,5 @@ button:hover{
         display: none;
     }
 }
+
 
